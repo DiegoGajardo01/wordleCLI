@@ -22,8 +22,7 @@ Este proyecto es una versión del popular juego de palabras "Wordle", implementa
 3. El programa te indicará cuántas letras están en la posición correcta (Buenas) y cuántas letras están en la palabra pero en la posición incorrecta (Aciertos).
 
 ## Ejemplo de salida
-¡¡Bienvenido al worle en CLI!!
------
+# ¡¡Bienvenido al worle en CLI!!
 Ingresa una palabra:
 
 
