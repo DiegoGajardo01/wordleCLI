@@ -23,7 +23,7 @@ Este proyecto es una versión del popular juego de palabras "Wordle", implementa
 
 ## Ejemplo de salida
 ¡¡Bienvenido al worle en CLI!!
------
+"------"
 Ingresa una palabra:
 
 
