@@ -1,4 +1,4 @@
-# Worle en CLI
+# Wordle en CLI
 
 Este proyecto es una versión del popular juego de palabras "Wordle", implementado en la línea de comandos (CLI) utilizando Python. El objetivo del juego es adivinar una palabra de cinco letras en un número ilimitado de intentos.
 
